@@ -1,4 +1,4 @@
-# yudy
+# Bitcoin prediction and nasdaq index by LSTM(by hours)
 
 Using deep learning to predict future price of bitcoin by LSTM.
 
